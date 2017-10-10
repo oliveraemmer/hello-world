@@ -27,7 +27,7 @@ public class HelloWorld {
      * @param args the command line arguments
      */
     public static void foo(String[] args) {
-        int num;
+        
     }
     
 }
